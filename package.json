@@ -1,0 +1,16 @@
+{
+  "name": "restserver",
+  "description": "REST API for phantGraphs and device provisioning",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fcgdam/PG-RestServer.git"
+  },
+  "dependencies": {
+    "body-parser": ">= 1.14",
+    "cors": ">= 2.7",
+    "express": ">= 4.0",
+    "morgan": "^1.6.1",
+    "sqlite3": "^3.1.1"
+  }
+}
